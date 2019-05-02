@@ -1,0 +1,4 @@
+output/* linguist-vendored
+site/* linguist-vendored
+templates/* linguist-vendored
+
